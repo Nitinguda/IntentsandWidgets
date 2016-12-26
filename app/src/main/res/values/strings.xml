@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Intents and Widgets</string>
+    <string-array name="spinnerArray">
+        <item>Golden State Warriors</item>
+        <item>Los Angeles Lakers</item>
+        <item>Chicago Bulls</item>
+        <item>Cleveland Cavaliers</item>
+        <item>San Antonio Spurs</item>
+    </string-array>
+
+    <integer-array name="object_image">
+        <item>@drawable/golden</item>
+        <item>@drawable/lakers</item>
+        <item>@drawable/bulls</item>
+        <item>@drawable/cleveland</item>
+        <item>@drawable/spurs</item>
+
+    </integer-array>
+
+
+    <string name="desc">The Golden State Warriors are an American professional basketball
+        team based in Oakland, California. The Warriors compete in the National Basketball
+        Association (NBA) as a member club of the leagues Western Conference Pacific Division.
+        The team was established in 1946 as the Philadelphia Warriors based in Philadelphia,
+        Pennsylvania, a founding member of the Basketball Association of America (BAA),
+        and it won the inaugural 1947 BAA Finals that is now considered the first NBA Championship.\n \n Current Players : \n \n Leandro Barbosa \n
+    Harrison Barnes \n Andrew Bogut \n Ian Clark \n Stephen Curry \n Festus Ezeli
+    </string>
+
+
+    <string name="desc3">The Chicago Bulls are an American professional basketball team based in Chicago,
+        Illinois. The Bulls compete in the National Basketball Association (NBA) as a member team of the league
+        s Eastern Conference Central Division. The team was founded on January 16, 1966. The team play their home
+        games at the United Center, an arena shared with the Chicago Blackhawks of the National Hockey League (NHL).
+        The Bulls saw their greatest success during the 1990s. They are known for having one of the NBAs greatest
+        dynasties, winning six NBA championships between 1991 and 1998 with two three-peats. All six championship
+        teams were led by Hall of Famers Michael Jordan, Scottie Pippen and coach Phil Jackson. The Bulls are the
+        only NBA franchise to win multiple championships and never lose an NBA Finals series in their history.\n \n Current Players :
+    \n \n Cameron Bairstow \n Aaron Brooks \n Jimmy Butler \n Mike Dunleavy \n Cristiano Felicio \n Pau Gasol</string>
+
+    <string name="desc2">The Los Angeles Lakers are an American professional basketball team based in Los Angeles, California,
+        that competes in the National Basketball Association (NBA). They are members of the Pacific Division of the leagues Western Conference.
+        The Lakers play their home games at Staples Center, an arena shared with the NBAs Los Angeles Clippers, the Los Angeles Sparks of the
+        Womens National Basketball Association, and the Los Angeles Kings of the National Hockey League.[3] The Lakers are one of the most successful
+        teams in the history of the NBA, and have won 16 NBA championships, their last being in 2010. As of 2015, the Lakers are the second most valuable
+        franchise in the NBA according to Forbes, having an estimated value of $2.7 billion. \n \n Current Players : \n \n
+    Brandon Bass \n Tarik Black \n Anthony Brown \n Kobe Bryant \n Jordan Clarkson \n Roy Hibbert</string>
+
+    <string name="desc4">The Cleveland Cavaliers, also known as the Cavs, are an American professional basketball team
+        based in Cleveland, Ohio. The Cavaliers compete in the National Basketball Association (NBA), as a member of the
+        leagues Eastern Conference Central Division. The Cavaliers are the only remaining charter member of the
+        division (all the other Central Division teams joined later from the now-defunct Midwest Division). \n The team began
+        play in the league in 1970 as an expansion team. Home games are played at Quicken Loans Arena, which the team shares
+        with the Cleveland Gladiators of the Arena Football League, and the Lake Erie Monsters of the American Hockey League.
+        Past NBA greats such as Nate Thurmond, Lenny Wilkens, Walt Clyde Frazier, and Shaquille O Neal have also played in Cleveland.
+        \n \n Current Players : \n \n Kyrie Irving \n LeBron James \n Channing Frye \n Timofey Mozgov \n Kevin Love \n Iman Shumpert</string>
+
+    <string name="desc5">The San Antonio Spurs are an American professional basketball team based in San Antonio, Texas.
+        They are part of the Southwest Division of the Western Conference in the National Basketball Association (NBA). \n
+The Spurs are one of four former American Basketball Association teams to remain intact in the NBA after the 1976 ABA–NBA
+        merger and the only former ABA team to have won an NBA championship. The Spurs five NBA championships are the fourth
+        most in history behind only the Boston Celtics (17), Los Angeles Lakers (16), and Chicago Bulls (6). The Spurs currently
+        rank first among active franchises for the highest winning percentage in NBA history, and are the only team in the NBA with
+        a tied or better head-to-head regular season record against every active NBA franchise. \n \n Current Players :
+    \n \n LaMarcus Aldridge \n Kyle Anderson \n Matt Bonner \n Rasual Butler \n Boris Diaw \n Tim Duncan</string>
+
+</resources>
